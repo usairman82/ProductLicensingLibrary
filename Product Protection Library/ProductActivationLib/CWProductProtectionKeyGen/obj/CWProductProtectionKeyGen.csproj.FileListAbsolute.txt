@@ -1,0 +1,14 @@
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\obj\Debug\CWProductProtectionKeyGen.cwKeyGenMainForm.resources
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\obj\Debug\CWProductProtectionKeyGen.Properties.Resources.resources
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\obj\Debug\CWProductProtectionKeyGen.csproj.GenerateResource.Cache
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\bin\Debug\CWProductProtectionKeyGen.exe
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\bin\Debug\CWProductProtectionKeyGen.pdb
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\bin\Debug\CWActivationKeyGenLibrary.dll
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\bin\Debug\CWAuxillaryMethods.dll
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\bin\Debug\ProductActivationLib.dll
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\bin\Debug\CWAuxillaryMethods.pdb
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\bin\Debug\CWActivationKeyGenLibrary.pdb
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\bin\Debug\ProductActivationLib.pdb
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\obj\Debug\CWProductProtectionKeyGen.exe
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWProductProtectionKeyGen\obj\Debug\CWProductProtectionKeyGen.pdb

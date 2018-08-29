@@ -1,0 +1,28 @@
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\obj\Debug\CWActivationTest.Form1.resources
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\obj\Debug\CWActivationTest.Properties.Resources.resources
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\obj\Debug\CWActivationTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\bin\Debug\CWActivationTest.exe
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\bin\Debug\CWActivationTest.pdb
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\bin\Debug\ProductActivationLib.dll
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\bin\Debug\ProductActivationLib.pdb
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\obj\Debug\CWActivationTest.exe
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\obj\Debug\CWActivationTest.pdb
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\bin\Debug\CWActivationKeyGenLibrary.dll
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\bin\Debug\CWActivationKeyGenLibrary.pdb
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\bin\Debug\CWAuxillaryMethods.dll
+C:\Documents and Settings\ccessnun.MERLIN.001\My Documents\Visual Studio 2005\Projects\ForSale\ProductActivationLib\CWActivationTest\bin\Debug\CWAuxillaryMethods.pdb
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\bin\Debug\CWActivationTest.exe
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\bin\Debug\CWActivationTest.pdb
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\bin\Debug\CWActivationKeyGenLibrary.dll
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\bin\Debug\CWAuxillaryMethods.dll
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\bin\Debug\ProductActivationLib.dll
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\bin\Debug\CWAuxillaryMethods.pdb
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\bin\Debug\CWActivationKeyGenLibrary.pdb
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\bin\Debug\ProductActivationLib.pdb
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\obj\Debug\ResolveAssemblyReference.cache
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\obj\Debug\CWActivationTest.Form1.resources
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\obj\Debug\CWActivationTest.Properties.Resources.resources
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\obj\Debug\CWActivationTest.csproj.GenerateResource.Cache
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\obj\Debug\CWActivationTest.exe
+F:\Caseware Computer Systems LLC\Projects\New Folder\Product Protection Library\ProductActivationLib\CWActivationTest\obj\Debug\CWActivationTest.pdb
